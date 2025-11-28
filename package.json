@@ -1,5 +1,5 @@
 {
-  "name": "@koenig-sania/gpr-demo-package",
+  "name": "@koenig-sania/gpr-demo-package1",
   "version": "1.0.0",  
   "description": "A demo package with format utilities.",
   "main": "format-utils.js",
